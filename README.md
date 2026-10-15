@@ -1,6 +1,6 @@
 # TPP PM Skills
 
-5 skills en español para Product Managers, listos para usar con Claude Code y otros agentes que lean archivos `SKILL.md`. Creados por [TPP Academy (The Pro Producto Academy)](https://www.skool.com/the-pro-producto-4548).
+6 skills en español para Product Managers, listos para usar con Claude Code y otros agentes que lean archivos `SKILL.md`. Creados por [TPP Academy (The Pro Producto Academy)](https://www.skool.com/the-pro-producto-4548).
 
 | Skill | Para qué sirve |
 |---|---|
@@ -9,6 +9,7 @@
 | [`user-feedback-analyzer`](https://github.com/chapiztirrina/tpp-pm-skills/tree/main/skills/user-feedback-analyzer) | Convierte reseñas, tickets, NPS o entrevistas en temas, citas y oportunidades |
 | [`meeting-summarizer`](https://github.com/chapiztirrina/tpp-pm-skills/tree/main/skills/meeting-summarizer) | Resume una reunión y saca decisiones y next steps con responsable y fecha |
 | [`weekly-update-writer`](https://github.com/chapiztirrina/tpp-pm-skills/tree/main/skills/weekly-update-writer) | Redacta un update semanal corto y con la conclusión primero |
+| [`roadmap-24h`](https://github.com/chapiztirrina/tpp-pm-skills/tree/main/skills/roadmap-24h) | Bot que entrevista y entrega roadmap, tareas, fechas, DRI y presentación en menos de 24 horas |
 
 ## Instalación
 
@@ -30,6 +31,7 @@ Pedirlos en lenguaje natural. Ejemplos:
 - `Analiza este feedback de usuarios: [pegar reseñas o tickets]`
 - `Resume esta reunión y saca los next steps: [transcripción]`
 - `Escribe mi update semanal para liderazgo. Notas: [notas de la semana]`
+- `Arma mi roadmap en 24 horas` (el bot te entrevista)
 
 ## Principios compartidos
 
